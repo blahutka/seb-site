@@ -20,7 +20,7 @@ body { background-color:#1f6b80; color:$textColor; }
   }
 
 .logo {
-  text-transform:uppercase; color:white; text-shadow:1px 2px #333;
+  text-transform:uppercase; color:white; text-shadow:1px 2px #333333;
   h1 { font-size:34px; }
   h1 small, h6 small, h5 small { font-size:inherit; color:#FBE471; }
   }
@@ -80,4 +80,4 @@ footer {
   position:relative; bottom:150px;
   }
 
-footer { background-color:#548d9c; }
+footer { background-color:#548d9c;border-top: 1px solid #7DACBA;}
